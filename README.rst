@@ -36,7 +36,7 @@ Give collectd-web a try! Execute the standalone web server and you are done:
 
 Links
 =====
- * http://collectdweb.appspot.com
+ * http://collectdweb.appspot.com 
  * https://twitter.com/collectdweb
  * https://www.facebook.com/collectdweb
  * https://plus.google.com/111037505131782971511/posts
