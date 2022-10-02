@@ -9,7 +9,7 @@ bundled with the backend was really made for testing purposes, so much of the
 usability and strength of statistics was left aside.
 
 Installation
-=============
+================
 You must have a path containing each host's files in a separate
 sub-directory, named according to the host.
 
