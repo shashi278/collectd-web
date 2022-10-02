@@ -11,6 +11,7 @@ The main objective of this is to develop an easy to use and customizable web int
 Two days of research where enough to realize that collectd didn't have a real frontend and the one bundled with the backend was really made for testing purposes, so much of the usablility and strength of statistics was left aside.
 
 Contents:
+==========
 
 .. toctree::
    :maxdepth: 2
