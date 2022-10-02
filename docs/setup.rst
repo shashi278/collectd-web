@@ -5,5 +5,5 @@ Installation
 Requirements
 ============
 
-How-To
-======
+How-To install Collected Web
+============================
