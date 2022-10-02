@@ -32,7 +32,7 @@ Using the webserver
 ===================
 Give collectd-web a try! Execute the standalone web server and you are done:
 
-	python runserver.py
+	python runserver.py 
 
 Links
 =====
