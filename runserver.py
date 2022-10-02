@@ -8,7 +8,7 @@ class Handler(http.server.CGIHTTPRequestHandler):
 
 PORT = 8888
 
-def main():
+def app():
     parser = OptionParser()
     opts, args = parser.parse_args()
     if args:
@@ -20,4 +20,4 @@ def main():
     httpd.serve_forever()
 
 if __name__ == "__main__":
-    main()
+    app()
